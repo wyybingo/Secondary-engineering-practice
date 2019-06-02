@@ -30,3 +30,5 @@ the C# should give a text box to input the address of the server, not to write i
 ## p2. 
 the python should give the results of the obeject-realy-tracking to the C#, and the C# should change the format of the base64 to the fram of the video. 
 
+I will upload my client code  tomorrow.
+
